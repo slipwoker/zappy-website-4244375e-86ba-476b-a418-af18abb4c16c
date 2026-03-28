@@ -1,6 +1,4 @@
-# מרכז טיפול רגשי - NLP — Generative Engine Optimization Map
-
-> An emotional therapist specializing in NLP (Neuro-Linguistic Programming) offering a warm, approachable, and non-clinical therapeutic experience. Services include parental guidance, couples therapy, emotional therapy for children, and anger management. The brand tone is friendly, nurturing, and supportive — not overly formal or medical. The website should feel inviting and safe, with testimonials and a variety of treatment topics to help visitors identify with their needs.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,22 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About מרכז טיפול רגשי - NLP
-An emotional therapist specializing in NLP (Neuro-Linguistic Programming) offering a warm, approachable, and non-clinical therapeutic experience. Services include parental guidance, couples therapy, emotional therapy for children, and anger management. The brand tone is friendly, nurturing, and supportive — not overly formal or medical. The website should feel inviting and safe, with testimonials and a variety of treatment topics to help visitors identify with their needs.
-
-## Services/Products
-- טיפול NLP
-- הדרכת הורים
-- טיפול זוגי
-- טיפול רגשי לילדים
-- התמודדות עם התקפי כעס
-
-## Target Audience
-אנשים המחפשים טיפול רגשי, הורים, זוגות, ילדים
-
-## Industry
-טיפול רגשי ובריאות הנפש
-
+## About Business
 ---
 
 # Additional Resources
