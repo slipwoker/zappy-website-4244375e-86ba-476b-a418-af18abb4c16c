@@ -1,47 +1,64 @@
-# Business — Generative Engine Optimization Map
+# מרכז טיפול רגשי - NLP — Generative Engine Optimization Map
+
+> An emotional therapist specializing in NLP (Neuro-Linguistic Programming) offering a warm, approachable, and non-clinical therapeutic experience. Services include parental guidance, couples therapy, emotional therapy for children, and anger management. The brand tone is friendly, nurturing, and supportive — not overly formal or medical. The website should feel inviting and safe, with testimonials and a variety of treatment topics to help visitors identify with their needs.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://merkaz-tipul-ragshi-nlp.zappy5.app
 מרכז טיפול רגשי חם ותומך המתמחה ב-NLP. הדרכת הורים, טיפול זוגי, טיפול רגשי לילדים וניהול כעסים — במקום בטוח שבו השינוי מתחיל. קבעו פגישה היום.
 
 ### טיפולים
-https://example.com/treatments
+https://merkaz-tipul-ragshi-nlp.zappy5.app/treatments
 הדרכת הורים NLP, טיפול זוגי, טיפול רגשי לילדים עם התקפי כעס וניהול זעם — כל הטיפולים במקום אחד. גלו איזה שירות מתאים בדיוק לכם ולמשפחתכם.
 
 ### אודות
-https://example.com/about
+https://merkaz-tipul-ragshi-nlp.zappy5.app/about
 היכירו מטפלת רגשית מוסמכת ב-NLP עם לב גדול וגישה אנושית. לא קליניקה קרה — אלא מקום שבו מרגישים נשמעים, מובנים ומוכנים לצמוח. הכירו את הדרך שלנו.
 
 ### צור קשר
-https://example.com/contact
+https://merkaz-tipul-ragshi-nlp.zappy5.app/contact
 רוצים להתחיל הדרכת הורים, טיפול רגשי לילדים או לזוג? צרו קשר עכשיו ותקבלו מענה אישי וחם. אנחנו כאן בשבילכם — ביחד נמצא את הדרך הנכונה לכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://merkaz-tipul-ragshi-nlp.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://merkaz-tipul-ragshi-nlp.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://merkaz-tipul-ragshi-nlp.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About מרכז טיפול רגשי - NLP
+An emotional therapist specializing in NLP (Neuro-Linguistic Programming) offering a warm, approachable, and non-clinical therapeutic experience. Services include parental guidance, couples therapy, emotional therapy for children, and anger management. The brand tone is friendly, nurturing, and supportive — not overly formal or medical. The website should feel inviting and safe, with testimonials and a variety of treatment topics to help visitors identify with their needs.
+
+## Services/Products
+- טיפול NLP
+- הדרכת הורים
+- טיפול זוגי
+- טיפול רגשי לילדים
+- התמודדות עם התקפי כעס
+
+## Target Audience
+אנשים המחפשים טיפול רגשי, הורים, זוגות, ילדים
+
+## Industry
+טיפול רגשי ובריאות הנפש
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://merkaz-tipul-ragshi-nlp.zappy5.app/sitemap.xml
+- **Robots.txt**: https://merkaz-tipul-ragshi-nlp.zappy5.app/robots.txt
