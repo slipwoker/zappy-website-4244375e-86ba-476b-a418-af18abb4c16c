@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מרכז טיפול רגשי חם ותומך המתמחה ב-NLP. הדרכת הורים, טיפול זוגי, טיפול רגשי לילדים וניהול כעסים — במקום בטוח שבו השינוי מתחיל. קבעו פגישה היום.
+
+### טיפולים
+https://example.com/treatments
+הדרכת הורים NLP, טיפול זוגי, טיפול רגשי לילדים עם התקפי כעס וניהול זעם — כל הטיפולים במקום אחד. גלו איזה שירות מתאים בדיוק לכם ולמשפחתכם.
+
+### אודות
+https://example.com/about
+היכירו מטפלת רגשית מוסמכת ב-NLP עם לב גדול וגישה אנושית. לא קליניקה קרה — אלא מקום שבו מרגישים נשמעים, מובנים ומוכנים לצמוח. הכירו את הדרך שלנו.
+
+### צור קשר
+https://example.com/contact
+רוצים להתחיל הדרכת הורים, טיפול רגשי לילדים או לזוג? צרו קשר עכשיו ותקבלו מענה אישי וחם. אנחנו כאן בשבילכם — ביחד נמצא את הדרך הנכונה לכם.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
